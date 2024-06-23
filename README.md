@@ -2,7 +2,7 @@
 
 This dataset is a collection of grape leaf images organized into different directories for training and testing machine learning models to detect the esca disease in grape leaves. The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/rm1000/grape-disease-dataset-original) and rearranged into the following structure:
 
-## Dataset Purpose
+## Purpose
 
 The goal of this repo is to create files for training Large Vision-Language Models (LVLMs) to identify esca leaf symptoms from other common grape leaf diseases. This dataset will be used to train a custom AnomalyGPT model, [grapeleafGPT](https://github.com/mikejrodd/grapeleafGPT), as well as a [binary image classifier](https://github.com/mikejrodd/esca_image_classifier) using a Convolutional Neural Network (CNN) with TensorFlow and Keras.
 
